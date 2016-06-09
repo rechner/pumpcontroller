@@ -2,17 +2,18 @@ ISP/SPI header pinout
 =====================
 Note that this is NOT standard ICSP!
 
-|pin|function
-| 1 | SCK
-| 2 | GND
-| 3 | MISO
-| 4 | VCC
-| 5 | (NC)
-| 6 | RST
-| 7 | (NC)
-| 8 | (NC)
-| 9 | MOSI
-|10 | GND
+|pin|function |
+|---|---------|
+| 1 | SCK|
+| 2 | GND|
+| 3 | MISO|
+| 4 | VCC|
+| 5 | (NC)|
+| 6 | RST|
+| 7 | (NC)|
+| 8 | (NC)|
+| 9 | MOSI|
+|10 | GND|
 
 Microcontroller connections
 ===========================
